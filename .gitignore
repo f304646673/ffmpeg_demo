@@ -3,3 +3,14 @@
 ################################################################################
 
 /.vs
+/Debug
+/ffprobe
+/GetFileInfo/Debug/GetFileInfo.tlog
+/GetFileInfo/Debug
+/GetFileInfo/Release
+/GetFileSize/Release
+/GetFileSize/x64/Debug
+/Release
+/third/ffmpeg/presets
+/x64/Debug
+/GetFileSize/Debug
